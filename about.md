@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I do coding for fun- mostly web development and NodeJS, but I often play around with many different languages.  
+I code for fun- mainly NodeJS and web development.  
 
 ### Projects
 - Spotlist - Share spotify palylists

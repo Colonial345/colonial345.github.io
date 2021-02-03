@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I code for fun- mainly NodeJS and web development.  
+I code for fun- mainly NodeJS and web development.
 
 ### Projects
 - Spotlist - Share spotify palylists
@@ -15,5 +15,4 @@ I code for fun- mainly NodeJS and web development.
 ### Contact me
 
 - [email@domain.com](mailto:email@domain.com)
-- [discord server](https://discord.gg/sN3ggNB3ka)
 - Colin#9341

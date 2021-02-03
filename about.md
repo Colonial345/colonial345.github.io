@@ -15,4 +15,4 @@ I code for fun- mainly NodeJS and web development.
 ### Contact me
 
 - [email@domain.com](mailto:email@domain.com)
-- Colin#9341
+- Colin#9341 on Discord

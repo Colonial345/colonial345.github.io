@@ -9,6 +9,8 @@ I code for fun- mainly NodeJS and web development.  This blog is mainly for upda
 ### Projects
 - Spotlist - Share spotify playlists
 - Clubber - Create, manage, and join clubs
+- RSS Full Text - full text RSS feeds
+- Damn Fine News
 - Politics Sim - WIP
 
 
